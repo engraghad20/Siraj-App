@@ -8,7 +8,7 @@
  
 
 واجهة التطبيق:
-https://sirajhacathon.netlify.app/
+https://siraj-quran.vercel.app/
 
 
 
@@ -62,8 +62,3 @@ https://sirajhacathon.netlify.app/
 تم تطوير هذا المشروع كعمل جماعي ضمن فريق هاكاثون البرهان،
 مع توضيح دور كل عضوة في المشروع بكل شفافية واحترافية.
 
-التقنيات المستخدمة
-Machine Learning / Deep Learning
-Speech & Text Analysis
-Backend APIs
-GPU-based Processing
